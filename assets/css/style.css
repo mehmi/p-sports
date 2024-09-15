@@ -124,7 +124,7 @@ section {
 
 /* Banner Section Start*/
 .bannerSection {
-    background: url('/assets/images/bannerImg.png');
+    background: url('../images/bannerImg.png');
     background-size: cover;
     min-height: 100vh;
 }
@@ -236,7 +236,7 @@ section {
 
 /* Get College Degree Start */
 .GetCollegeDegreeSection {
-    background: url(/assets/images/getDegreeBg.png);
+    background: url(../images/getDegreeBg.png);
     background-size: cover;
     background-repeat: no-repeat;
     min-height: 100vh;
@@ -339,7 +339,7 @@ section {
 
 /* Faq Section */
 .faqSection {
-    background: url(/assets/images/faqBg.png) no-repeat;
+    background: url(../images/faqBg.png) no-repeat;
     background-size: cover;
     background-attachment: fixed;
 }
@@ -580,7 +580,7 @@ section {
 
 /* Start your journey section */
 .startYourJourney {
-    background: url(/assets/images/startJourneyBg.png) no-repeat;
+    background: url(../images/startJourneyBg.png) no-repeat;
     height: 100dvh;
     background-size: cover;
     align-content: center;
